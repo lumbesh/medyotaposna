@@ -1,0 +1,31 @@
+/* black coffee*/
+.bc{
+position: absolute;
+width: 598px;
+height: 415px;
+left: 431px;
+top: 149px;
+display: none;
+
+background: url(/coffee.jpg);
+border-radius: 96px;
+}
+
+/* Black Coffee txt */
+.bct{
+position: absolute;
+width: 377px;
+height: 87px;
+left: 551px;
+top: 564px;
+
+display: none;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 108px;
+
+color: #000000;
+}
